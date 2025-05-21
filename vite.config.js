@@ -5,5 +5,5 @@ import tailwindcss from "@tailwindcss/vite";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react(), tailwindcss()],
-  base: "CC20-react-validate-finallab",
+  base: "CC20-react-validate-finallab"
 });
