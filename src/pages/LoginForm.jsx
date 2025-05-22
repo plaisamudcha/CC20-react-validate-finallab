@@ -111,7 +111,7 @@ export default function LoginForm() {
           <option>Thief</option>
         </select>
       </label>
-      <p className={texterror.style}>{error.heroclass}</p>
+      <p className={texterror.style}>{error.heroClass}</p>
 
       <fieldset className="fieldset bg-base-100 border-base-300 rounded-box w-64 border p-4">
         <legend className="fieldset-legend">Terms</legend>
